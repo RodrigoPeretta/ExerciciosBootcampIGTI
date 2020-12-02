@@ -1,0 +1,20 @@
+h1 {
+  margin-left: 45px !important;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 25px 0 25px;
+}
+
+#inputSearch {
+  margin: 0 25px 0 25px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 45px 0 45px;
+}
